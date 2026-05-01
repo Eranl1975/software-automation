@@ -12,8 +12,4 @@
       "dest": "api/index.py"
     }
   ],
-  "env": {
-    "ANTHROPIC_API_KEY": "@anthropic_api_key",
-    "GITHUB_TOKEN": "@github_token"
-  }
 }
